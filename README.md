@@ -1,2 +1,3 @@
 # Student-PRO
-Como um estudante, você pode se candidatar ao GitHub Student Developer Pack, que inclui ofertas e benefícios dos parceiros GitHub.
+
+https://docs.github.com/pt/education/teach-and-learn-with-github-education/apply-for-a-student-developer-pack
